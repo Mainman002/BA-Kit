@@ -1,0 +1,13 @@
+############## Easy Instructions ####################
+#1. Chose Texture
+#2. Press F12
+#3. click Image / Save Image As
+
+
+############## Spritify Instructions ################
+
+#1 Install the Spritify Addon 
+#2 click the Render Animation Button
+#3 Click Generate Sprite Sheet
+(!!Warning this will overide the render 
+and current generated seamless texture!!)

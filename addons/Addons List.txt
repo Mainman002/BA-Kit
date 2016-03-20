@@ -1,0 +1,32 @@
+------ Installed Addons --------
+
+Blend Library
+Spritify (not really needed but can be good for a quick 16 image animated sprite)
+
+-------- Settings ------------
+
+(Interface)
+Large Cursors (Linux)
+
+(Editing)
+Global Undo = 40
+
+(Input)
+Emulate 3 Button Mouse
+
+(Add-ons)
+3D View: Dynamic Spacebar Menu
+Game Engine: Game Engine Publishing
+Import-Export: Blend Library
+Import-Export: UV Layout
+Import-Export: Wavefront OBJ format
+Render: Cycles Render Engine
+
+(File)
+Save Versions = 0
+Auto Save Timer = 1
+
+(System)
+DPI = 69
+Mipmaps = unchecked
+VBOs 	=   checked
