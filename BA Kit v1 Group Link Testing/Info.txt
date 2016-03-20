@@ -1,0 +1,24 @@
+Welcome to BGE! this is a basic blend of addons to make game creation a little more strait forward! 
+
+to the left is the Tools Tab which contains a number of features including the Blend Library. . . 
+
+the Blend Library holds 3 folders Materials, Objects, and Groups. . . each contains a blend file with the corisponding contents. . . 
+
+the groups are not like normal groups if you change them they don't take effect until you import them again. . .
+
+materials work best when set to replace so you don't end up with a lot of extra stuff. . .
+
+at the bottom right is the publish addon! I have included Windows 32bit and Linux 32bit exporters! click publish and watch it go! (you can download more versions from http://download.blender.org/release/  and  https://www.blender.org/download/)
+
+then click the plus icon to add the version you want to use and navigate to the blender player 
+
+after the game is published you might need to copy over a few folders. . . levels needs to be coppied else you wont be able to load them. . . you will need to change the level path to the main.blend file to whatever the game is called by default it is Game . . . 
+
+I have included FPS style player and a 2d Platformer character for you to play around with!
+
+also a simple menu system!
+
+the Quit key is now F1
+
+I hope you enjoy using BGE and look forward to seeing the amazing stuff you make!
+
