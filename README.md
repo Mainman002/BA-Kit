@@ -1,4 +1,4 @@
-# BA-Kit
+# BA-Kit v1
 BGE Blender Asset Kit. a game to make games
 This is a mix of files to help in making blender games. It includes a fps style character, 2.5D platformer character,
 2d platform character, teleporters, enemies, collectables, and many more items found in most games! this kit is not 
